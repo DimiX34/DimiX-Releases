@@ -1,16 +1,48 @@
-{
-  "hub": {
-    "version": "1.0.0",
-    "release_name": "",
-    "tag_name": "",
-    "published_at": "",
-    "html_url": ""
-  },
-  "wirebridge": {
-    "version": "0.0.0",
-    "release_name": "",
-    "tag_name": "",
-    "published_at": "",
-    "html_url": ""
-  }
+﻿{
+    "hub":  {
+                "version":  "1.0.1",
+                "release_name":  "Feed test 2026-03-29",
+                "tag_name":  "feed-v20260329-1",
+                "published_at":  "2026-03-29T16:03:42Z",
+                "html_url":  "https://github.com/DimiX34/DimiX-Releases/releases/tag/feed-v20260329-1",
+                "firmware":  {
+                                 "name":  "hub-firmware-1.0.1.bin.enc",
+                                 "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260329-1/hub-firmware-1.0.1.bin.enc",
+                                 "size":  2050448,
+                                 "encrypted":  true,
+                                 "sha256":  "4204d0771f6611e5d5bb466bad966085b626082f8c3b8677e398281cf5946c00",
+                                 "iv_hex":  "0e5e3581d19921d3f7bf7651edc63ac5"
+                             },
+                "littlefs":  {
+                                 "name":  "hub-littlefs-1.0.1.bin.enc",
+                                 "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260329-1/hub-littlefs-1.0.1.bin.enc",
+                                 "size":  6029312,
+                                 "encrypted":  true,
+                                 "sha256":  "fc6f34e7834515bb3f41475f8c559a2966e6d297e9e9f21760fcd0068d227651",
+                                 "iv_hex":  "8837612a0f19d58a0f7c688f037b707c"
+                             }
+            },
+    "wirebridge":  {
+                       "version":  "1.0.4",
+                       "release_name":  "Feed test 2026-03-29",
+                       "tag_name":  "feed-v20260329-1",
+                       "published_at":  "2026-03-29T16:03:42Z",
+                       "html_url":  "https://github.com/DimiX34/DimiX-Releases/releases/tag/feed-v20260329-1",
+                       "firmware":  {
+                                        "name":  "wirebridge-firmware-1.0.4.bin.enc",
+                                        "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260329-1/wirebridge-firmware-1.0.4.bin.enc",
+                                        "size":  902800,
+                                        "encrypted":  true,
+                                        "sha256":  "191586ac55f366eca5fb7bc9478009d78fe3b67cfc82dd4ab8299942f725bb54",
+                                        "iv_hex":  "44c0cb908523ab0f1c8395cb7064ceae"
+                                    },
+                       "littlefs":  {
+                                        "name":  "wirebridge-littlefs-1.0.4.bin.enc",
+                                        "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260329-1/wirebridge-littlefs-1.0.4.bin.enc",
+                                        "size":  6029312,
+                                        "encrypted":  true,
+                                        "sha256":  "ea2150a547a7f1872f66b5c805424782f1caec4bf7271d2af56e6e173cfd6c37",
+                                        "iv_hex":  "1b1a6cee8d49af0065acf41bcde71264"
+                                    }
+                   }
 }
