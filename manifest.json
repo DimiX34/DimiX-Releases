@@ -10,16 +10,16 @@
                                  "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260331-hub-1/hub-firmware-1.0.3.bin.enc",
                                  "size":  2051424,
                                  "encrypted":  true,
-                                 "sha256":  "6415bc5199c9e33c6b9aea044174e1dcc8a8cbf311db38eca560b30479f7eafe",
-                                 "iv_hex":  "5c26efaf1b1e922842d0e71dbab9a2cc"
+                                 "sha256":  "9f24efaf2cd3530fd50280963d5939e0a57692030438667aa6eefeed3cd3dd31",
+                                 "iv_hex":  "e7596af1a5bc8ecc907f23e8d4d736a1"
                              },
                 "littlefs":  {
                                  "name":  "hub-littlefs-1.0.3.bin.enc",
                                  "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260331-hub-1/hub-littlefs-1.0.3.bin.enc",
                                  "size":  6029312,
                                  "encrypted":  true,
-                                 "sha256":  "b7f25770df6204e9ff496b6608162aa06a85c3d09b7ecf05e3540d7462c87a44",
-                                 "iv_hex":  "8882b11b1d286ca4b71f73d10b3dd2be"
+                                 "sha256":  "2aba381e6004e722013bd4edacafb1c0810a4602154fa2c1153de23fe4318a52",
+                                 "iv_hex":  "346cd39736138b113d0c44e8949f0bc0"
                              }
             },
     "wirebridge":  {
