@@ -1,25 +1,25 @@
 {
     "hub":  {
-                "version":  "1.0.2",
-                "release_name":  "Feed 2026-03-29 - HUB 1.0.2",
-                "tag_name":  "feed-v20260329-2",
-                "published_at":  "2026-03-29T20:03:49Z",
-                "html_url":  "https://github.com/DimiX34/DimiX-Releases/releases/tag/feed-v20260329-2",
+                "version":  "1.0.3",
+                "release_name":  "Feed 2026-03-31 - HUB 1.0.3",
+                "tag_name":  "feed-v20260331-hub-1",
+                "published_at":  "2026-03-31T19:24:48Z",
+                "html_url":  "https://github.com/DimiX34/DimiX-Releases/releases/tag/feed-v20260331-hub-1",
                 "firmware":  {
-                                 "name":  "hub-firmware-1.0.2.bin.enc",
-                                 "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260329-2/hub-firmware-1.0.2.bin.enc",
-                                 "size":  2050448,
+                                 "name":  "hub-firmware-1.0.3.bin.enc",
+                                 "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260331-hub-1/hub-firmware-1.0.3.bin.enc",
+                                 "size":  2051424,
                                  "encrypted":  true,
-                                 "sha256":  "d3b56ade7c6e43dcc6c31493ae06446f4bce8bd8641f5f5d1dc565eb59015608",
-                                 "iv_hex":  "97e8eae45deeae2c7810326002fcd253"
+                                 "sha256":  "6415bc5199c9e33c6b9aea044174e1dcc8a8cbf311db38eca560b30479f7eafe",
+                                 "iv_hex":  "5c26efaf1b1e922842d0e71dbab9a2cc"
                              },
                 "littlefs":  {
-                                 "name":  "hub-littlefs-1.0.2.bin.enc",
-                                 "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260329-2/hub-littlefs-1.0.2.bin.enc",
+                                 "name":  "hub-littlefs-1.0.3.bin.enc",
+                                 "url":  "https://github.com/DimiX34/DimiX-Releases/releases/download/feed-v20260331-hub-1/hub-littlefs-1.0.3.bin.enc",
                                  "size":  6029312,
                                  "encrypted":  true,
-                                 "sha256":  "060057562f2f5b385675e2201ad8df9110a5470086b8d09dbe654ecbe4b05c6b",
-                                 "iv_hex":  "5372fcce11586b30ee0373ecb17fe788"
+                                 "sha256":  "b7f25770df6204e9ff496b6608162aa06a85c3d09b7ecf05e3540d7462c87a44",
+                                 "iv_hex":  "8882b11b1d286ca4b71f73d10b3dd2be"
                              }
             },
     "wirebridge":  {
